@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant-092711" alt="prashant-092711" /></a> </p>
 
-- 🔭 I’m currently working on [DiscordGPT](https://replit.com/@Prashant-092711/DiscordChatGPT#main.py)
+- 🔭 I’m currently working on React Native Application
 
-- 🌱 I’m currently learning **Spring boot, python,**
+- 🌱 I’m currently learning **JAVA, MYSQL , API INTEGRATION **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prashant-092711/Prashant-092711](https://github.com/Prashant-092711/Prashant-092711)
 
